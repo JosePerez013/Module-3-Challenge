@@ -1,10 +1,10 @@
 # Module-3-Challenge Random Password Generator
 ## Description
 
-- Making new secure passords can be difficult but with this website you can make one with ease.
+- Making new secure passwords can be difficult but with this website you can make one with ease.
 - This random password generator can create passwords within certain parameters.
-- I can use this webiste to generate secure passwords for me.
-- I learned how to make interactible website using JavaScript.
+- I can use this website to generate secure passwords for me.
+- I learned how to make an interactible website using JavaScript.
 
 ## Features
 
