@@ -15,7 +15,7 @@
 
 Live Deployment on GitHub pages. No installation needed.
 
-Link: 
+Link: https://joseperez013.github.io/Module-3-Challenge/
 
 ## Usage
 
